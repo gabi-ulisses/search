@@ -38,6 +38,9 @@ A **busca sequencial indexada** combina a eficiência da indexação com a simpl
 
 Essa abordagem é eficiente para vetores grandes, pois limita a busca a uma porção menor do vetor.
 
+4. Confira o vídeo no YouTube para entender o funcionamento do sistema:
+   - [Demonstração do Sistema de Operação de Busca](https://youtu.be/YWpV09aaRQM)
+
 ## Compilação
 
 Para compilar o projeto, utilize o Makefile incluído. Execute o seguinte comando no terminal:
